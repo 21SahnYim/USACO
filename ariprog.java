@@ -5,7 +5,7 @@ TASK: ariprog
  */
 
 // package ariprog;
-//hi
+//hello
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
