@@ -1,4 +1,5 @@
-package bronze.jan2020one;
+// Copyright 2021 Sahngwie Yim   
+package bronze.jan2020;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -7,9 +8,6 @@ import java.util.StringTokenizer;
 
 public class Word {
 
-  // public Word() {
-
-  // }
   public static void main(String[] args) throws IOException {
     Word word = new Word();
     word.input();
