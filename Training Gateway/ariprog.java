@@ -4,8 +4,10 @@ LANG: JAVA
 TASK: ariprog
  */
 
+// Copyright 2021 Sahngwie Yim
+
 // package ariprog;
-//hello
+
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

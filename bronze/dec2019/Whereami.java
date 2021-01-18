@@ -1,3 +1,4 @@
+// Copyright 2021 Sahngwie Yim
 package bronze.dec2019;
 
 import java.io.BufferedReader;

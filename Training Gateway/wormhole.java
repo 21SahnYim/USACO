@@ -4,6 +4,8 @@ LANG: JAVA
 TASK: wormhole
  */
 
+// Copyright 2021 Sahngwie Yim
+
 package wormhole;
 
 import java.io.BufferedReader;
