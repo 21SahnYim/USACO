@@ -1,0 +1,76 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Gymnastics",
+            "request": "launch",
+            "mainClass": "bronze.dec2019.Gymnastics",
+            "projectName": "USACO_40b4040a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Gymnastics2",
+            "request": "launch",
+            "mainClass": "bronze.dec2019.Gymnastics2",
+            "projectName": "USACO_40b4040a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Whereami",
+            "request": "launch",
+            "mainClass": "bronze.dec2019.Whereami",
+            "projectName": "USACO_40b4040a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Whereami2",
+            "request": "launch",
+            "mainClass": "bronze.dec2019.Whereami2",
+            "projectName": "USACO_40b4040a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Whereami2_differentinput",
+            "request": "launch",
+            "mainClass": "bronze.dec2019.Whereami2_differentinput",
+            "projectName": "USACO_40b4040a",
+
+            "args": [
+                "<",
+                "bronze/dec2019/datawhereami/10.in"
+              ]
+        },
+        {
+            "type": "java",
+            "name": "Launch Photo",
+            "request": "launch",
+            "mainClass": "bronze.jan2020.Photo",
+            "projectName": "USACO_40b4040a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Race",
+            "request": "launch",
+            "mainClass": "bronze.jan2020.Race",
+            "projectName": "USACO_40b4040a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Word",
+            "request": "launch",
+            "mainClass": "bronze.jan2020.Word",
+            "projectName": "USACO_40b4040a"
+        }
+    ]
+}

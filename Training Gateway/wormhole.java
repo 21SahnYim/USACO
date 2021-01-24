@@ -6,7 +6,7 @@ TASK: wormhole
 
 // Copyright 2021 Sahngwie Yim
 
-package wormhole;
+// package wormhole;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
